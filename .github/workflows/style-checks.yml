@@ -14,7 +14,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - run: sudo apt-get install -y python3-setuptools ruff
+      - run: python3 -m pip install ruff
+        name: Install requirements
       - run: python3 -m ruff check .
         name: Run ruff checks
       - run: python3 -m ruff format --check .
