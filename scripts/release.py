@@ -1,7 +1,6 @@
 """Release the latest monthly issue."""
 
 import os
-from datetime import datetime
 
 parent_dir = os.path.join(os.path.dirname(os.path.realpath(__file__)), "..")
 draft_dir = os.path.join(parent_dir, "drafts")
