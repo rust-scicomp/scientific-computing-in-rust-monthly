@@ -18,6 +18,8 @@ jobs:
         run: python3 scripts/make_new_draft.py
       - name: Push changes
         run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
           git add .
           git commit -a -m "Release issue"
-          git push
+          git push https://oauth2:${{ secrets.GITHUB_TOKEN }}@github.com/rust-scicomp/scientific-computing-in-rust-monthly.git
