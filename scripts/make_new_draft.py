@@ -17,8 +17,11 @@ date_filename = next.strftime("%Y-%m")
 date_str = next.strftime("%B %Y")
 
 number = 0
-files = [file for file in os.listdir(issue_dir)
-         if file.endswith(".md") and not file.startswith(".")]
+files = [
+    file
+    for file in os.listdir(issue_dir)
+    if file.endswith(".md") and not file.startswith(".")
+]
 if len(files) > 0:
     file = sorted(files)[0]
     with open(os.path.join(issue_dir, file)) as f:
