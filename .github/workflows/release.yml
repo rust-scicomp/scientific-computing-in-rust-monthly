@@ -1,0 +1,23 @@
+name: 📰 Release newsletter
+
+on: workflow_dispatch
+
+jobs:
+  style-checks:
+    permissions:
+      id-token: write
+      contents: write
+
+    name: Run style checks
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Release latest draft
+        run: python3 scripts/release.py
+      - name: Make next draft
+        run: python3 scripts/make_new_draft.py
+      - name: Push changes
+        run: |
+          git add .
+          git commit -a -m "Release issue"
+          git push
