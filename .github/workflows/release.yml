@@ -23,3 +23,4 @@ jobs:
           git add .
           git commit -a -m "Release issue"
           git push https://oauth2:${{ secrets.GITHUB_TOKEN }}@github.com/rust-scicomp/scientific-computing-in-rust-monthly.git
+      # TODO: trigger website rebuild
