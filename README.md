@@ -5,8 +5,10 @@ about scientific computing in the Rust programming language. The newsletter can 
 at [scientificcomputing.rs/monthly](https://scientificcomputing.rs/monthly) or you can sign up
 to receive an email copy at [mailinglist.scientificcomputing.rs](https://mailinglist.scientificcomputing.rs).
 
-Items can be added to the newsletter by opening a pull request to this repo. You can find more
-information about adding items [below](#contributing-an-item).
+Items can be added to the newsletter by opening a pull request to this repo. We encourage contributions
+to the newsletter from anyone developing a Rust crate related to scientific computing: this could be a
+very general library for linear algebra, a very specific crate for a certain application, or anything in between.
+You can find more information about adding items [below](#contributing-an-item).
 
 ## Releasing an issue
 Each month, one of the editors of Scientific Computing in Rust Monthly will finialise and release
