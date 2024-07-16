@@ -18,6 +18,13 @@ Items can be added to the newsletter by opening a pull request to the
 You can find more information about adding items
 [here](https://github.com/rust-scicomp/scientific-computing-in-rust-monthly#contributing-an-item).
 
+## Crate of the month
+<!--
+The crate of the month will be picked by the editor, who will write a brief description of it here.
+If you'd like to suggest a crate that we could include here, tell us on the rust-scicomp Zulip chat
+(https://rust-scicomp.zulipchat.com/login/).
+-->
+
 ## New releases
 <!--
 This section can be used to announce new released of libraries. Items should
