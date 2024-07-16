@@ -43,6 +43,21 @@ sooner events first, and should use the format:
 <brief description of event>
 -->
 
+## Publications
+<!--
+This section can be used to publicise papers, articles and blog posts published about scientific computing in Rust.
+Items should be sorted in the alphabetical order of the surname of the first listed author.
+Papers posted should use the following format:
+
+### [<authors>, <title>, <journal> <volume>](<DOI>)
+<brief description of paper>
+
+Other publications should use the following format:
+
+### [<author>, <title>](<link>)
+<brief description>
+-->
+
 ## Jobs
 <!--
 This section can be used to advertise jobs that may be of interest. Items should be sorted in the
