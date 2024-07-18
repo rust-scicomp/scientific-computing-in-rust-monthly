@@ -21,6 +21,7 @@ a the following sections:
 
 * New releases
 * Events
+* Publications
 * Jobs
 
 You should add your item to the relevant section, or the "Miscellaneous" section if it doesn't fit
