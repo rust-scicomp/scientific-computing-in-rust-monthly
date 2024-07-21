@@ -1,6 +1,7 @@
 ---
 number: {issue_number}
 date: {date}
+day: <!-- put day of the month of release here -->
 ---
 
 # Scientific Computing in Rust Monthly #{issue_number}
