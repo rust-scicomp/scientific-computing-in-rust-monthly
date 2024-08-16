@@ -10,11 +10,11 @@ Welcome to this month's issue of Scientific Computing in Rust Monthly.
 
 <!-- Editor can write a 2-3 sentence introduction here -->
 
-Scientific Computing in Rust Monthly can be viewed online
-at [scientificcomputing.rs/monthly](https://scientificcomputing.rs/monthly) or you can sign up
-to receive an email copy at [mailinglist.scientificcomputing.rs](https://mailinglist.scientificcomputing.rs).
+Scientific Computing in Rust Monthly can be viewed online at [scientificcomputing.rs/monthly](https://scientificcomputing.rs/monthly),
+you can sign up to receive an email copy at [mailinglist.scientificcomputing.rs](https://mailinglist.scientificcomputing.rs),
+or you can subscribe using the RSS feed at [scientificcomputing.rs/monthly/rss.xml](https://scientificcomputing.rs/monthly/rss.xml).
 
-Items can be added to the newsletter by opening a pull request to the
+Items can be added to the next issue of the newsletter by opening a pull request to the
 [Scientific Computing in Rust Monthly repository on GitHub](https://github.com/rust-scicomp/scientific-computing-in-rust-monthly).
 You can find more information about adding items
 [here](https://github.com/rust-scicomp/scientific-computing-in-rust-monthly#contributing-an-item).
