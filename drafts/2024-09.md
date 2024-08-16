@@ -25,6 +25,7 @@ The crate of the month will be picked by the editor, who will write a brief desc
 If you'd like to suggest a crate that we could include here, tell us on the rust-scicomp Zulip chat
 (https://rust-scicomp.zulipchat.com/login/).
 -->
+[crates.io](INSERT LINK) ~ [docs.rs](INSERT LINK) ~ [source](INSERT LINK)
 
 ## New releases
 <!--
