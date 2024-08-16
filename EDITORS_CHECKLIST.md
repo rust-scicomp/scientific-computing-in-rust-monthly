@@ -9,6 +9,7 @@
       these? If yes, [open an issue](https://github.com/rust-scicomp/scientific-computing-in-rust-monthly/issues/new).
     - [ ] Have you deleted any empty sections?
     - [ ] Have you checked that the month name is correct? This is especially important if a month is skipped.
+    - [ ] Have you put the day of the month of publishing in metadata at the top of the issue?
 - After publishing
     - [ ] Have you removed this month from the upcoming issues in the readme?
     - [ ] Does the next issue have an editor assigned?
