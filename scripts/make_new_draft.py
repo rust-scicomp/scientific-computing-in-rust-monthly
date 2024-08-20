@@ -36,11 +36,9 @@ if len(files) > 0:
                 number = int(line[7:]) + 1
                 break
             assert line != "---"
-else:
-    number = 0
 
 content = content.replace("{date}", date_str)
-content = content.replace("{issue_number}", f"{number}")
+content = content.replace("{issue_number}", f"{number + 1}")
 
 assert not os.path.isfile(os.path.join(draft_dir, f"{date_filename}.md"))
 with open(os.path.join(draft_dir, f"{date_filename}.md"), "w") as f:
