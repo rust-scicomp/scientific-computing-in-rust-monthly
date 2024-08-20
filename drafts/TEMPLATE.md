@@ -32,7 +32,7 @@ If you'd like to suggest a crate that we could include here, tell us on the rust
 This section can be used to announce new released of libraries. Items should
 be sorted in alphabetical order and should use the format:
 
-### <library name> <release number>
+### [<library name> <release number>](<crates.io link>)
 <brief description of the library and its new features in this release>
 -->
 
