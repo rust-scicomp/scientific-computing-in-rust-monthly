@@ -3,12 +3,12 @@ name: 📰 Release newsletter
 on: workflow_dispatch
 
 jobs:
-  style-checks:
+  release:
     permissions:
       id-token: write
       contents: write
 
-    name: Run style checks
+    name: Release next issue
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
