@@ -54,12 +54,12 @@ The editors for the next few issues are:
 
 | Issue | Date           | Editor |
 | ----- | -------------- | ------ |
-| #2    | September 2024 | Matthew Scroggs |
 | #3    | October 2024   | Matthew Scroggs |
 | #4    | November 2024  | |
 | #5    | December 2024  | |
 | #6    | January 2025   | |
 | #7    | February 2025  | |
+| #8    | March 2025     | |
 
 ## Code of conduct
 All contributors to and editors of Scientific Computing in Rust Monthly are expected to
