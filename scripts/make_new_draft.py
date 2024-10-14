@@ -23,7 +23,7 @@ files = [
     if file.endswith(".md") and not file.startswith(".")
 ]
 if len(files) > 0:
-    file = sorted(files)[0]
+    file = sorted(files)[-1]
     with open(os.path.join(issue_dir, file)) as f:
         pre = True
         for line in f:
