@@ -22,8 +22,7 @@ files = [
     for file in os.listdir(issue_dir)
     if file.endswith(".md") and not file.startswith(".")
 ]
-if len(files) > 0:
-    file = sorted(files)[0]
+for file in files:
     with open(os.path.join(issue_dir, file)) as f:
         pre = True
         for line in f:
@@ -33,7 +32,7 @@ if len(files) > 0:
                 pre = False
                 continue
             if line.startswith("number:"):
-                number = int(line[7:]) + 1
+                number = max(int(line[7:]), number)
                 break
             assert line != "---"
 
