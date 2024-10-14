@@ -37,6 +37,8 @@ if len(files) > 0:
                 break
             assert line != "---"
 
+print(number)
+
 content = content.replace("{date}", date_str)
 content = content.replace("{issue_number}", f"{number + 1}")
 
