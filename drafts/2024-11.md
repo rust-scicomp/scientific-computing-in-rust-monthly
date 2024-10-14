@@ -69,6 +69,15 @@ order in which they are added and should use the format:
 <description of job, including how to apply and deadline>
 -->
 
+## Studentships
+<!--
+This section can be used to advertise studentships (eg PhDs, Master's programmes) that may be of interest.
+Items should be sorted in the order in which they are added and should use the format:
+
+### [<title>, <location>](<more information URL>)
+<description of studentship, including how to apply and deadline>
+-->
+
 ## Miscellaneous
 <!--
 Any items that do not fit into any other section can be added here.
