@@ -41,9 +41,6 @@ the month's newsletter. Once the finalisation is complete, this can be done by t
 the [release newsletter](https://github.com/rust-scicomp/scientific-computing-in-rust-monthly/actions/workflows/release.yml)
 workflow. We aim for this to be done in the first 2 weeks of the month.
 
-Once the release workflow has finished, a rebuild of the website can be triggered using
-[the website's build workflow](https://github.com/rust-scicomp/website/actions/workflows/build.yml).
-
 Before releasing a month's newsletter, the editor should check that everything on the
 [editors' checklist](EDITORS_CHECKLIST.md) has been done.
 

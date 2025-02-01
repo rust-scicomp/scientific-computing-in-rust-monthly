@@ -27,4 +27,11 @@ jobs:
           git add .
           git commit -a -m "Release issue"
           git push https://oauth2:${{ secrets.GITHUB_TOKEN }}@github.com/rust-scicomp/scientific-computing-in-rust-monthly.git
-      # TODO: trigger website rebuild
+
+      - name: Invoke website rebuild
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build.yml
+          repo: rust-scicomp/website
+          token: ${{ secrets.PAT_TOKEN }}
+          ref: refs/heads/main
