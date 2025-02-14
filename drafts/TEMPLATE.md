@@ -41,7 +41,7 @@ be sorted in alphabetical order and should use the format:
 This section can be used to advertise events. Items should be sorted in date order, with
 sooner events first, and should use the format:
 
-### [<event name>, <location or "held virutally">, <date>](<website URL>)
+### [<event name>, <day-day month year>, <location or "held virutally">, <date>](<website URL>)
 <brief description of event>
 -->
 
