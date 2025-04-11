@@ -23,6 +23,8 @@ a the following sections:
 * Events
 * Publications
 * Jobs
+* Studentships
+* Help wanted
 
 You should add your item to the relevant section, or the "Miscellaneous" section if it doesn't fit
 any other section.
@@ -54,11 +56,11 @@ The editors for the next few issues are:
 
 | Issue | Date           | Editor |
 | ----- | -------------- | ------ |
-| #8    | April 2025     | Matthew Scroggs |
-| #9    | May 2025       | |
+| #9    | May 2025       | Matthew Scroggs |
 | #10   | June 2025      | |
 | #11   | July 2025      | |
 | #12   | August 2025    | |
+| #13   | September 2025 | |
 
 ## Code of conduct
 All contributors to and editors of Scientific Computing in Rust Monthly are expected to
