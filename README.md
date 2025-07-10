@@ -56,11 +56,11 @@ The editors for the next few issues are:
 
 | Issue | Date           | Editor |
 | ----- | -------------- | ------ |
-| #11   | July 2025      | Matthew Scroggs|
-| #12   | August 2025    | |
-| #13   | September 2025 | |
-| #14   | October 2025   | |
+| #11   | August 2025    | Matthew Scroggs |
+| #12   | September 2025 | |
+| #13   | October 2025   | |
 | #14   | November 2025  | |
+| #15   | December 2025  | |
 
 ## Code of conduct
 All contributors to and editors of Scientific Computing in Rust Monthly are expected to
