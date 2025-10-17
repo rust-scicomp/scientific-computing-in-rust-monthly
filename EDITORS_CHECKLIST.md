@@ -14,3 +14,4 @@
     - [ ] Have you removed this month from the upcoming issues in the readme?
     - [ ] Does the next issue have an editor assigned?
     - [ ] Have you added another month to the upcoming issues in the readme so that the next 6 issues are covered?
+    - [ ] Have you updated the `PREV_CRATE_OF_THE_MONTH.md` document?
