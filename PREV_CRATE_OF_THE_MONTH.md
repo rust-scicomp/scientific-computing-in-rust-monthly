@@ -11,3 +11,4 @@
 - 2025-06: [Bevy](https://crates.io/crates/bevy) and [Burn](https://crates.io/crates/burn)
 - 2025-07: [cargo-upgrades](https://crates.io/crates/cargo-upgrades)
 - 2025-10: [Rayon](https://crates.io/crates/rayon)
+- 2025-11: [interpn](https://crates.io/crates/interpn)
