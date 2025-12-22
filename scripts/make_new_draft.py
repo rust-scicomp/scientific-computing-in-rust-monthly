@@ -11,7 +11,7 @@ with open(os.path.join(draft_dir, "TEMPLATE.md")) as f:
     content = f.read()
 
 now = datetime.now()
-next = datetime(year=now.year, month=now.month + 1, day=1)
+next = datetime(year=now.year + 1 if now.month == 12 else now.year, month=1 if now.month == 12 else now.month + 1, day=1)
 
 date_filename = next.strftime("%Y-%m")
 date_str = next.strftime("%B %Y")
