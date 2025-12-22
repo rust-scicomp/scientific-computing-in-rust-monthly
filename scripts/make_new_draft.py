@@ -14,7 +14,7 @@ now = datetime.now()
 next = datetime(
     year=now.year + 1 if now.month == 12 else now.year,
     month=1 if now.month == 12 else now.month + 1,
-    day=1
+    day=1,
 )
 
 date_filename = next.strftime("%Y-%m")
