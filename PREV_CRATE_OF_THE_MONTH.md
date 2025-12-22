@@ -1,6 +1,6 @@
 # Previous Crate of the Month selections
 
-- 2024-08: [faer](https://crates.io/crates/faer)  
+- 2024-08: [faer](https://crates.io/crates/faer)
 - 2024-09: [rsmpi](https://crates.io/crates/mpi)
 - 2024-10: [bacon-sci](https://crates.io/crates/bacon-sci)
 - 2024-11: [zarrs](https://crates.io/crates/zarrs)
@@ -12,3 +12,4 @@
 - 2025-07: [cargo-upgrades](https://crates.io/crates/cargo-upgrades)
 - 2025-10: [Rayon](https://crates.io/crates/rayon)
 - 2025-11: [interpn](https://crates.io/crates/interpn)
+- 2025-12: [num](https://crates.io/crates/num)

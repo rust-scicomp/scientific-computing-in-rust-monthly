@@ -1,7 +1,7 @@
 - Before publishing
     - [ ] Have you posted a reminder to add items in Zulip?
 - Preparing to publish
-    - [ ] Have you picked a crate of the month? Have you checked that it hasn't been picked before recently?
+    - [ ] Have you picked a crate of the month? Have you [checked that it hasn't been picked before recently](PREV_CRATE_OF_THE_MONTH.md)?
     - [ ] Have all items been placed in the correct sections of the newsletter
     - [ ] Within each section, are items sorted as suggested in the comments?
     - [ ] Are all items formatted as suggested in the comments?
