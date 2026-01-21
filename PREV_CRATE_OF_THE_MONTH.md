@@ -13,3 +13,4 @@
 - 2025-10: [Rayon](https://crates.io/crates/rayon)
 - 2025-11: [interpn](https://crates.io/crates/interpn)
 - 2025-12: [num](https://crates.io/crates/num)
+- 2026-01: [measurements](https://crates.io/crates/measurements)
