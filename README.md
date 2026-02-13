@@ -57,11 +57,11 @@ The editors for the next few issues are:
 
 | Issue | Date           | Editor |
 | ----- | -------------- | ------ |
-| #15   | February 2026  | Matthew Scroggs |
 | #16   | March 2026     | Reto Trappitsch |
 | #17   | April 2026     | |
 | #18   | May 2026       | |
 | #19   | Jun 2026       | |
+| #20   | Jul 2026       | |
 
 ## Code of conduct
 All contributors to and editors of Scientific Computing in Rust Monthly are expected to
