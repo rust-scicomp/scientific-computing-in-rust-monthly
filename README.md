@@ -11,6 +11,7 @@ very general library for linear algebra, a very specific crate for a certain app
 You can find more information about adding items [below](#contributing-an-item).
 
 ## Contributing an item
+
 To add an item to the next issue of the newsletter, you should
 [fork this repository](https://github.com/rust-scicomp/scientific-computing-in-rust-monthly/fork),
 edit in your fork, then open a pull request to add your item to the main branch.
@@ -34,10 +35,12 @@ Any text contained between `<!--` and `-->` is a comment and will not be display
 newsletter.
 
 ## Format of the newsletter
+
 If you want to suggest improvements to the format of the newletter, you can
 [open an issue on the this repository](https://github.com/rust-scicomp/scientific-computing-in-rust-monthly/issues).
 
 ## Publication process
+
 Each month, one of the editors of Scientific Computing in Rust Monthly will finialise and release
 the month's newsletter. Once the finalisation is complete, this can be done by triggering
 the [release newsletter](https://github.com/rust-scicomp/scientific-computing-in-rust-monthly/actions/workflows/release.yml)
@@ -47,22 +50,26 @@ Before releasing a month's newsletter, the editor should check that everything o
 [editors' checklist](EDITORS_CHECKLIST.md) has been done.
 
 ### Editors
+
 The current editors of Scientific Computing in Rust Monthly are:
 
 * [Matthew Scroggs](https://github.com/mscroggs)
 * [Reto Trappitsch](https://github.com/trappitsch)
 
 ### Upcoming issues
+
 The editors for the next few issues are:
 
 | Issue | Date           | Editor |
 | ----- | -------------- | ------ |
-| #16   | March 2026     | Reto Trappitsch |
-| #17   | April 2026     | |
-| #18   | May 2026       | |
+| #17   | Apr 2026       | M. Scroggs |
+| #18   | May 2026       | R. Trappitsch |
 | #19   | Jun 2026       | |
 | #20   | Jul 2026       | |
+| #21   | Aug 2026       | |
+| #22   | Sep 2026       | |
 
 ## Code of conduct
+
 All contributors to and editors of Scientific Computing in Rust Monthly are expected to
 follow the [Scientific Computing in Rust code of conduct](https://scientificcomputing.rs/code-of-conduct).
