@@ -16,3 +16,4 @@
 - 2026-01: [measurements](https://crates.io/crates/measurements)
 - 2026-02: [approx](https://crates.io/crates/approx)
 - 2026-03: [rstest](https://crates.io/crates/rstest)
+- 2026-04: [pastey](https://crates.io/crates/pastey)
