@@ -5,7 +5,7 @@
 - 2024-10: [bacon-sci](https://crates.io/crates/bacon-sci)
 - 2024-11: [zarrs](https://crates.io/crates/zarrs)
 - 2025-01: [paradis](https://crates.io/crates/paradis)
-- 2025-02: [serde](https://crates.io/crates/serde) 
+- 2025-02: [serde](https://crates.io/crates/serde)
 - 2025-04: [Polars](https://crates.io/crates/polars)
 - 2025-05: [EGObox](https://crates.io/crates/egobox)
 - 2025-06: [Bevy](https://crates.io/crates/bevy) and [Burn](https://crates.io/crates/burn)
@@ -17,3 +17,4 @@
 - 2026-02: [approx](https://crates.io/crates/approx)
 - 2026-03: [rstest](https://crates.io/crates/rstest)
 - 2026-04: [pastey](https://crates.io/crates/pastey)
+- 2026-05: [hotpath](https://crates.io/crates/hotpath)
