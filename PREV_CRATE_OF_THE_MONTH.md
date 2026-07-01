@@ -18,3 +18,4 @@
 - 2026-03: [rstest](https://crates.io/crates/rstest)
 - 2026-04: [pastey](https://crates.io/crates/pastey)
 - 2026-05: [hotpath](https://crates.io/crates/hotpath)
+- 2026-06: [hyperreal](https://crates.io/crates/hyperreal)
