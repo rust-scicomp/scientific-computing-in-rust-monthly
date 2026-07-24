@@ -1,18 +1,18 @@
 - Before publishing
-    - [ ] Have you posted a reminder to add items in Zulip?
+  - [ ] Have you posted a reminder to add items in Zulip?
 - Preparing to publish
-    - [ ] Have you picked a crate of the month? Have you [checked that it hasn't been picked before recently](PREV_CRATE_OF_THE_MONTH.md)?
-    - [ ] Have all items been placed in the correct sections of the newsletter
-    - [ ] Within each section, are items sorted as suggested in the comments?
-    - [ ] Are all items formatted as suggested in the comments?
-    - [ ] Are there items in the miscellaneous section? Should we consider adding a section for items like
+  - [ ] Have you picked a crate of the month? Have you [checked that it hasn't been picked before recently](PREV_CRATE_OF_THE_MONTH.md)?
+  - [ ] Have all items been placed in the correct sections of the newsletter
+  - [ ] Within each section, are items sorted as suggested in the comments?
+  - [ ] Are all items formatted as suggested in the comments?
+  - [ ] Are there items in the miscellaneous section? Should we consider adding a section for items like
       these? If yes, [open an issue](https://github.com/rust-scicomp/scientific-computing-in-rust-monthly/issues/new).
-    - [ ] Have you deleted any empty sections?
-    - [ ] Have you checked that the month name is correct? This is especially important if a month is skipped.
-    - [ ] Have you put the day of the month of publishing in metadata at the top of the issue?
+  - [ ] Have you deleted any empty sections?
+  - [ ] Have you checked that the month name is correct? This is especially important if a month is skipped.
+  - [ ] Have you put the day of the month of publishing in metadata at the top of the issue?
 - After publishing
-    - [ ] Have you removed this month from the upcoming issues in the readme?
-    - [ ] Does the next issue have an editor assigned?
-    - [ ] Have you added another month to the upcoming issues in the readme so that the next 6 issues are covered?
-    - [ ] Have you updated the `PREV_CRATE_OF_THE_MONTH.md` document?
-    - [ ] Have you submitted a PR to [This Week in Rust](https://github.com/rust-lang/this-week-in-rust) with a link to the newsletter? (example: see [this PR](https://github.com/rust-lang/this-week-in-rust/pull/5912))
+  - [ ] Have you removed this month from the upcoming issues in the readme?
+  - [ ] Does the next issue have an editor assigned?
+  - [ ] Have you added another month to the upcoming issues in the readme so that the next 6 issues are covered?
+  - [ ] Have you updated the `PREV_CRATE_OF_THE_MONTH.md` document?
+  - [ ] Have you submitted a PR to [This Week in Rust](https://github.com/rust-lang/this-week-in-rust) with a link to the newsletter? (example: see [this PR](https://github.com/rust-lang/this-week-in-rust/pull/5912))

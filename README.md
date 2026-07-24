@@ -62,12 +62,12 @@ The editors for the next few issues are:
 
 | Issue | Date           | Editor |
 | ----- | -------------- | ------ |
-| #20   | Jul 2026       | R. Trappitsch |
-| #21   | Aug 2026       | |
-| #22   | Sep 2026       | |
+| #21   | Aug 2026       | M. Scroggs |
+| #22   | Sep 2026       | R. Trappitsch |
 | #23   | Oct 2026       | |
 | #24   | Nov 2026       | |
 | #25   | Dec 2026       | |
+| #26   | Jan 2027       | |
 
 ## Code of conduct
 
