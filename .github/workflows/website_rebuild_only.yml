@@ -1,0 +1,16 @@
+name: Rebuild website
+
+on: workflow_dispatch
+
+jobs:
+  rebuild:
+    name: Rebuild website only
+    runs-on: ubuntu-latest
+    steps:
+      - name: Invoke website rebuild
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: build.yml
+          repo: rust-scicomp/website
+          token: ${{ secrets.PAT_TOKEN }}
+          ref: refs/heads/main
