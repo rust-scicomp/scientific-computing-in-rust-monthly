@@ -1,7 +1,7 @@
 """Make a new draft."""
 
 import os
-from datetime import datetime
+from datetime import datetime, timedelta, timezone
 
 parent_dir = os.path.join(os.path.dirname(os.path.realpath(__file__)), "..")
 draft_dir = os.path.join(parent_dir, "drafts")
@@ -10,11 +10,12 @@ issue_dir = os.path.join(parent_dir, "issues")
 with open(os.path.join(draft_dir, "TEMPLATE.md")) as f:
     content = f.read()
 
-now = datetime.now()
+now = datetime.now(tz=timezone(timedelta()))
 next = datetime(
     year=now.year + 1 if now.month == 12 else now.year,
     month=1 if now.month == 12 else now.month + 1,
     day=1,
+    tzinfo=timezone(timedelta()),
 )
 
 date_filename = next.strftime("%Y-%m")
