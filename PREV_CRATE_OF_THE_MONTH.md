@@ -20,3 +20,4 @@
 - 2026-05: [hotpath](https://crates.io/crates/hotpath)
 - 2026-06: [hyperreal](https://crates.io/crates/hyperreal)
 - 2026-07: [derive_more](https://crates.io/crates/derive_more)
+- 2026-08: [CubeCL](https://crates.io/crates/cubecl)
