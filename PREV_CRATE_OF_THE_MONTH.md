@@ -22,3 +22,4 @@
 - 2026-07: [derive_more](https://crates.io/crates/derive_more)
 - 2026-08: [CubeCL](https://crates.io/crates/cubecl)
 - 2026-09: [proptest](https://crates.io/crates/proptest)
+- 2026-10: [pyo3](https://crates.io/crates/pyo3)
