@@ -23,3 +23,4 @@
 - 2026-08: [CubeCL](https://crates.io/crates/cubecl)
 - 2026-09: [proptest](https://crates.io/crates/proptest)
 - 2026-10: [pyo3](https://crates.io/crates/pyo3)
+- 2026-11: [jiff](https://crates.io/crates/jiff)
